@@ -12,7 +12,7 @@ function App()
 
     function onClickHandler(event){
         console.log(event.target)
-        setlist(l=>[...l,value])
+        setlist(l=>[...l,value]) 
 
     }
 
